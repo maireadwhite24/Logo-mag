@@ -1,0 +1,2 @@
+# Logo-mag
+trial logo
