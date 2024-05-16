@@ -1,1 +1,27 @@
+.logo {
+  display: flex;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+.logo img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.farm-name {
+  font-size: 24px;
+  font-weight: bold;
+  color: #032B44; /* dark blue */
+}
+
+.tagline {
+  font-size: 18px;
+  color: #666; /* gray */
+}
+
+.oyster-shell-icon {
+  fill: #87CEEB; /* light blue */
+}
 
